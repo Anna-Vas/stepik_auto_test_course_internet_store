@@ -1,4 +1,6 @@
-# stepik_auto_tests_course
-Homework from the course "Testing automatization using Selenium and Python" on Stepik
+# stepik_auto_test_course_internet_store
+Special part of homework from the course of testing automatization on Stepik (lesson 18 step 10).
 
-In this repository I will store homeworks and pet projects for the course of testing automatization on Stepik. Link to the course: https://stepik.org/course/575/
+Link to the task: https://stepik.org/lesson/237240/step/10?unit=209628
+
+
